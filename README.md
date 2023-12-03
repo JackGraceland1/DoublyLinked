@@ -1,3 +1,3 @@
 # DoublyLinked
 
-# This is a bolded statement
+This is a bolded statement
